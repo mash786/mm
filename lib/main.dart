@@ -26,8 +26,8 @@ class VideoListScreen extends StatefulWidget {
 }
 
 class _VideoListScreenState extends State<VideoListScreen> {
-  final String apiKey = 'AIzaSyBKyby9EZK3YxXUjyFqMQMt5natjCsFzZQ'; // Your YouTube Data API Key
-  final String channelId = 'UCK1XCJqEEFft5lj6zhfiEZA'; // Your Channel ID
+  final String apiKey = 'your youtube api key'; // Your YouTube Data API Key
+  final String channelId = 'upur channel id'; // Your Channel ID
 
   List<dynamic> _videos = [];
 
